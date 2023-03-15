@@ -1,0 +1,8 @@
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe.config
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\bin\Debug\EditorTexto.exe
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\bin\Debug\EditorTexto.pdb
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.AssemblyReference.cache
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.SuggestedBindingRedirects.cache
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\obj\Debug\EditorTexto.csproj.CoreCompileInputs.cache
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\obj\Debug\EditorTexto.exe
+C:\workspace-csharp\Curso-BaltaIO\EditorTexto\EditorTexto\obj\Debug\EditorTexto.pdb
